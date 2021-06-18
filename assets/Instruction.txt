@@ -1,0 +1,37 @@
+Introduction: 
+Welcome to Chip's Challenge!
+
+Here are the game rules.
+
+w or UP arrow: move up
+a or LEFT arrow: move left
+s or DOWN arrow: move down
+d or RIGHT arrow: move right
+CTRL-X: exit the game, the current game state will be lost, the next time the game is started, it will resume from the last unfinished level
+CTRL-S: exit the game, saves the game state, game will resume next time the application will be started
+CTRL-R: resume a saved game
+CTRL-P: start a new game at the last unfinished level
+CTRL-1: start a new game at level 1
+SPACE: pause the game and display a “game is paused” dialog
+ESC: close the “game is paused” dialog and resume the game
+
+
+In the menu bar:
+Game: New Game - Start a new game or resume a saved game
+      Save Game - Save current game
+      Load Game - Load the saved game if there is any
+      Exit - Exit the program (different from "CTRL-X")
+
+Options: Pause - Pause the current game
+         Mute Game Music - Mute music
+         Unmute Game Music - Replay the music
+         End Current Game - End the running game
+
+Level: Level 1 - Start a game at level 1
+       Level 2 - Start a game at level 2
+
+Help: Instruction
+
+Please collect treasures (chips) and keys. You can use a key in the inventory to unlock a door in the key's colour.
+Once you arrive at the Exit tile, you pass the current level and can go to the next level!
+Give it a go! Good luck!

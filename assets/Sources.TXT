@@ -1,0 +1,28 @@
+This document lists all the images and sounds/music that have been
+found online and their sources. Note that all images used
+in this game are copyright-free
+
+Images
+
+Maze.Items/Treasure.png - Image by mahesh kumar from Pixabay
+Maze.Items/ExitLock.png - Image by Clker-Free-Vector-Images from Pixabay
+Maze.Items/KeyBlue, KeyRed, KeyGreen - Images by Clker-Free-Vector-Images from Pixabay, slighlty edited from original
+
+Tiles/All images with padlocks - Images by Clker-Free-Vector-Images from Pixabay
+Tiles/Exit.png - Image by OpenClipart-Vectors from Pixabay
+Tiles/InfoField.png - Info part - Image by mohamed Hassan from Pixabay
+LoadingScreen Background image - Image by kropekk_pl from Pixabay
+Font in loading screen images - 04b_30 by 04 from dafont.com
+
+
+Music
+
+LoadingScreenMusic.mp3 is 'Princess Pop' - Music by Quality_Online_Media from Pixabay
+LevelMusic.mp3 is 'Indigo" - Music by Electronic-Senses from Pixabay
+
+Sound effects
+
+ErrorSound is Error.wav by Autistic Lucario on freesound.org
+PickupSound is success 1 by Leszek_Szary on freesound.org
+TimeoutSound is Video Game - Die or Lose Life by AdamWeeden on freesound.org
+LevelCompleteSound is Jingle_Win_01.wav by LittleRobotSoundFactory on freesound.org
